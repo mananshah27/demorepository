@@ -7,6 +7,7 @@ public static void main(String[] args)
     ages[1]=15;
     ages[2]=16;
     ages[3]=17;
+    ages[4]=18;
     for(int i=0;i<ages.length;i++){
         for(int j=0;j<=3;j++){
             System.out.println("the ages of the +num++ +members are:");
